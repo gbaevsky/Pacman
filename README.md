@@ -9,7 +9,7 @@ Authors: Theodore Klausner, Glenn Baevsky, Akshay Yadava
 
 Application Setting: Open-source Pacman game code found at https://pacmancode.com/
 
-Running the AI: command <python3 run.py> using Pygame, a cross-platform set of Python modules designed for writing video games
+Running the AI: [python3 run.py] using Pygame, a cross-platform set of Python modules designed for writing video games
   
 Changing the Depth of the Minimax Search Tree: In run.py change self.depth in the GameController class
 
