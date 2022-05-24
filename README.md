@@ -4,7 +4,9 @@ AI Gameplay
 An AI to play the Atari game Pacman
 
 Implementation: Multi-Agent Search using Minimax with Alpha-Beta Pruning
+
 Authors: Theodore Klausner, Glenn Baevsky, Akshay Yadava
+
 Application Setting: Open-source Pacman game code found at https://pacmancode.com/
 
 Running the AI: command <python3 run.py> using Pygame, a cross-platform set of Python modules designed for writing video games
